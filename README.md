@@ -1,5 +1,3 @@
-# Jurnal-NALISIS-SINKRONISASI-WHATSAPP-MOBILE-DAN-WHATSAPP-                      
-WEB
 Media Sosial WhatsApp menjadi sarana berkomunikasi yang popular saat ini. WhatsApp
 merupakan aplikasi pesan instan paling populer dibanding layanan pesan instan lain, menurut situs 
 website statitiska pengguna per Januari 2017 sebanyak 1,2 miliar orang secara aktif menggunakan 
